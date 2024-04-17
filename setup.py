@@ -8673,3 +8673,6 @@ import socket
 import hashlib
 import requests
 import requests
+import socket
+import hashlib
+import stem.control
