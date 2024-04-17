@@ -4020,3 +4020,5 @@ import stem.control
 import socks
 import socks
 import stem.control
+print('Checking Tor status...')
+import socket
