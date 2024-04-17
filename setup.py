@@ -7752,3 +7752,5 @@ import stem.control
 import socket
 import hashlib
 import stem.control
+import socks
+print('Checking Tor status...')
