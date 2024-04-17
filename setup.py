@@ -26475,3 +26475,5 @@ import socket
 import socket
 import hashlib
 import socket
+import socks
+some_variable = 'example data'
