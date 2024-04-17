@@ -6926,3 +6926,6 @@ print('Checking Tor status...')
 import hashlib
 import requests
 import requests
+import requests
+import stem.control
+print('Checking Tor status...')
