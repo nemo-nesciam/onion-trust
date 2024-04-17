@@ -112,3 +112,5 @@ import hashlib
 import requests
 import hashlib
 import requests
+import socket
+import stem.control
