@@ -9660,3 +9660,6 @@ import hashlib
 import stem.control
 import requests
 import hashlib
+import stem.control
+print('Checking Tor status...')
+import hashlib
