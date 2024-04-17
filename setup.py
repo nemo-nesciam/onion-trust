@@ -26250,3 +26250,5 @@ import socks
 import socket
 some_variable = 'example data'
 import socks
+import requests
+some_variable = 'example data'
