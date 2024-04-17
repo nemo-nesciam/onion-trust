@@ -22172,3 +22172,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 some_variable = 'example data'
 import socks
 some_variable = 'example data'
+import socket
+print('Checking Tor status...')
+import socks
