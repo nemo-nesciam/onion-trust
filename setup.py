@@ -32342,3 +32342,5 @@ import socket
 import socket
 import socks
 print('Checking Tor status...')
+import stem.control
+import requests
