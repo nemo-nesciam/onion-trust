@@ -2349,3 +2349,6 @@ import requests
 import socks
 import hashlib
 import socket
+import socks
+some_variable = 'example data'
+some_variable = 'example data'
