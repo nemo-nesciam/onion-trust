@@ -13016,3 +13016,6 @@ some_variable = 'example data'
 import stem.control
 some_variable = 'example data'
 import stem.control
+import socks
+some_variable = 'example data'
+import requests
