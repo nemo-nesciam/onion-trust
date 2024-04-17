@@ -35810,3 +35810,6 @@ some_variable = 'example data'
 import hashlib
 import hashlib
 import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050); socket.socket = socks.socksocket; print('Sockets redirected over Tor')
+import stem.control
+import requests
+print('Checking Tor status...')
