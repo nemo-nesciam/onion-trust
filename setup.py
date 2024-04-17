@@ -4239,3 +4239,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import stem.control
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 some_variable = 'example data'
+some_variable = 'example data'
+print('Checking Tor status...')
