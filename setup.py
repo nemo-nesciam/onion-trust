@@ -2245,3 +2245,6 @@ some_variable = 'example data'
 import requests
 import stem.control
 import socks
+some_variable = 'example data'
+import requests
+print('Checking Tor status...')
