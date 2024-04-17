@@ -17192,3 +17192,5 @@ import requests
 some_variable = 'example data'
 import socks
 import socks
+import socket
+import stem.control
