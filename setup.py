@@ -10067,3 +10067,5 @@ print('Checking Tor status...')
 print('Checking Tor status...')
 print('Checking Tor status...')
 print('Checking Tor status...')
+print('Checking Tor status...')
+import hashlib
