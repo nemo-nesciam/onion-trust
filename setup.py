@@ -16508,3 +16508,5 @@ import hashlib
 print('Checking Tor status...')
 import socks
 import hashlib
+import socket
+import hashlib
