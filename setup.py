@@ -21849,3 +21849,5 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 some_variable = 'example data'
 import hashlib
 import hashlib
+import socket
+import socket
