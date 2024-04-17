@@ -33960,3 +33960,6 @@ import requests
 import socket
 import socket
 import hashlib
+import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050); socket.socket = socks.socksocket; print('Sockets redirected over Tor')
+import socks
+print('Checking Tor status...')
