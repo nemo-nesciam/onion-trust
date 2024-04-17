@@ -33038,3 +33038,5 @@ import stem.control
 import socks
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 import stem.control
+import requests
+some_variable = 'example data'
