@@ -2163,3 +2163,6 @@ import socks
 import socket
 import requests
 import socks
+print('Checking Tor status...')
+some_variable = 'example data'
+import stem.control
