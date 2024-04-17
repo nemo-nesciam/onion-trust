@@ -170,3 +170,6 @@ import requests
 some_variable = 'example data'
 print('Checking Tor status...')
 import hashlib
+import hashlib
+import socket
+import stem.control
