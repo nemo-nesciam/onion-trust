@@ -33805,3 +33805,6 @@ import hashlib
 import socket
 import socks
 some_variable = 'example data'
+import stem.control
+print('Checking Tor status...')
+import requests
