@@ -33075,3 +33075,6 @@ print('Checking Tor status...')
 import stem.control
 import hashlib
 import hashlib
+print('Checking Tor status...')
+print('Checking Tor status...')
+import stem.control
