@@ -33256,3 +33256,6 @@ import socks
 import stem.control
 import stem.control
 some_variable = 'example data'
+import socks
+import socks
+import socket
