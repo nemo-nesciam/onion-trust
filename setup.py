@@ -9522,3 +9522,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import requests
 import socks
 import hashlib
+import socks
+some_variable = 'example data'
