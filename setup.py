@@ -36778,3 +36778,5 @@ import socket
 import stem.control
 import requests
 import hashlib
+import socket
+some_variable = 'example data'
