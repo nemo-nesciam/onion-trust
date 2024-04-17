@@ -21424,3 +21424,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 some_variable = 'example data'
 some_variable = 'example data'
 import requests
+import requests
+import stem.control
