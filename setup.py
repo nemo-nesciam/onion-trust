@@ -3323,3 +3323,6 @@ some_variable = 'example data'
 print('Checking Tor status...')
 import hashlib
 import socks
+import socks
+some_variable = 'example data'
+import hashlib
