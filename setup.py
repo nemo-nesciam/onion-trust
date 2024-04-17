@@ -15219,3 +15219,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 print('Checking Tor status...')
 import socks
 import stem.control
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
+import socket
+print('Checking Tor status...')
