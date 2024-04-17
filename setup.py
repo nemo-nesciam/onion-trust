@@ -4769,3 +4769,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import requests
 import socket
 import socks
+some_variable = 'example data'
+import socket
