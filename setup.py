@@ -1,1 +1,4 @@
-Wed Apr 17 16:21:43 BST 2024
+Wed Apr 17 16:27:11 BST 2024
+import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050); socket.socket = socks.socksocket; print('Sockets redirected over Tor')
+import requests
+import requests
