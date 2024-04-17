@@ -3594,3 +3594,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import stem.control
 some_variable = 'example data'
 import socks
+print('Checking Tor status...')
+import stem.control
+some_variable = 'example data'
