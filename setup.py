@@ -31903,3 +31903,5 @@ some_variable = 'example data'
 import requests
 import stem.control
 import socket
+import socket
+import stem.control
