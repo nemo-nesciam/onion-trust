@@ -944,3 +944,6 @@ some_variable = 'example data'
 some_variable = 'example data'
 import socket
 some_variable = 'example data'
+import requests
+some_variable = 'example data'
+import stem.control
