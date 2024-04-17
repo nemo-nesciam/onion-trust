@@ -11822,3 +11822,6 @@ import socks
 import hashlib
 import stem.control
 import stem.control
+import requests
+import stem.control
+import socks
