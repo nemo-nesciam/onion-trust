@@ -12731,3 +12731,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import socket
 print('Checking Tor status...')
 import stem.control
+import requests
+some_variable = 'example data'
