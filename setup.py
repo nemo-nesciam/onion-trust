@@ -219,3 +219,5 @@ some_variable = 'example data'
 import requests
 import requests
 import requests
+import hashlib
+import socks
