@@ -11132,3 +11132,6 @@ import stem.control
 import socks
 import socket
 some_variable = 'example data'
+import socket
+import socket
+print('Checking Tor status...')
