@@ -7428,3 +7428,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import requests
 import hashlib
 import hashlib
+import socket
+import hashlib
+print('Checking Tor status...')
