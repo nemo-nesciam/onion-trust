@@ -19985,3 +19985,5 @@ import stem.control
 import stem.control
 import socket
 print('Checking Tor status...')
+print('Checking Tor status...')
+import hashlib
