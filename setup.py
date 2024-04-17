@@ -32232,3 +32232,5 @@ import hashlib
 import socks
 import requests
 import stem.control
+import socket
+import stem.control
