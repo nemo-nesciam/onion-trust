@@ -6483,3 +6483,5 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import socket
 import stem.control
 print('Checking Tor status...')
+import socket
+import stem.control
