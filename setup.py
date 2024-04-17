@@ -7158,3 +7158,6 @@ import socket
 some_variable = 'example data'
 import socks
 import hashlib
+import hashlib
+print('Checking Tor status...')
+import socket
