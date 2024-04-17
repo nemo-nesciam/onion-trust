@@ -5258,3 +5258,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import hashlib
 import socket
 import hashlib
+import requests
+import socket
