@@ -21536,3 +21536,5 @@ import stem.control
 some_variable = 'example data'
 import socks
 import requests
+import socks
+import hashlib
