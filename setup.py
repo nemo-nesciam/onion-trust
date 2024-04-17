@@ -29934,3 +29934,6 @@ some_variable = 'example data'
 import socks
 import stem.control
 import socks
+import stem.control
+import socks
+print('Checking Tor status...')
