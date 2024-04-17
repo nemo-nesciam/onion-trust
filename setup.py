@@ -20619,3 +20619,5 @@ import requests
 import stem.control
 print('Checking Tor status...')
 print('Checking Tor status...')
+import socks
+print('Checking Tor status...')
