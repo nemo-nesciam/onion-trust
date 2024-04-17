@@ -12433,3 +12433,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import hashlib
 import hashlib
 import hashlib
+import requests
+some_variable = 'example data'
