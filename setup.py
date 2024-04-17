@@ -508,3 +508,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 some_variable = 'example data'
 import requests
 import socket
+import socks
+import hashlib
