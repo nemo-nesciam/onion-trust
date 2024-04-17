@@ -33156,3 +33156,5 @@ import socket
 import socket
 import requests
 import requests
+some_variable = 'example data'
+import stem.control
