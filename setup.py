@@ -13694,3 +13694,5 @@ import stem.control
 print('Checking Tor status...')
 print('Checking Tor status...')
 some_variable = 'example data'
+import requests
+import stem.control
