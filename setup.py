@@ -34911,3 +34911,5 @@ import socket
 import hashlib
 import socks
 import stem.control
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
