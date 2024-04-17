@@ -1155,3 +1155,5 @@ import hashlib
 import socks
 import stem.control
 import stem.control
+import socks
+import hashlib
