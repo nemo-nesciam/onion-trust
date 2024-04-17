@@ -271,3 +271,5 @@ import socks
 import hashlib
 import socket
 import socket
+import socket
+some_variable = 'example data'
