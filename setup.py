@@ -1157,3 +1157,5 @@ import stem.control
 import stem.control
 import socks
 import hashlib
+import stem.control
+print('Checking Tor status...')
