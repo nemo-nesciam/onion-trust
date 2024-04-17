@@ -30642,3 +30642,5 @@ import requests
 import requests
 some_variable = 'example data'
 import stem.control
+some_variable = 'example data'
+import socket
