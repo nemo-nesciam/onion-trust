@@ -30250,3 +30250,5 @@ import socks
 print('Checking Tor status...')
 import stem.control
 import hashlib
+import stem.control
+import socket
