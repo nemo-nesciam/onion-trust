@@ -24204,3 +24204,6 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import socket
 print('Checking Tor status...')
 import socket
+import socket
+import requests
+print('Checking Tor status...')
