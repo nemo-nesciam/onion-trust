@@ -9023,3 +9023,6 @@ import socket
 import socks
 some_variable = 'example data'
 import hashlib
+import hashlib
+print('Checking Tor status...')
+import stem.control
