@@ -17654,3 +17654,6 @@ import stem.control
 import hashlib
 import socks
 import hashlib
+import socket
+import hashlib
+print('Checking Tor status...')
