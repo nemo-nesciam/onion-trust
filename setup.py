@@ -5754,3 +5754,6 @@ some_variable = 'example data'
 import hashlib
 print('Checking Tor status...')
 import socks
+some_variable = 'example data'
+import socks
+print('Checking Tor status...')
