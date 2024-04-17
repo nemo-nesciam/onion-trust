@@ -32567,3 +32567,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 some_variable = 'example data'
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 import stem.control
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
