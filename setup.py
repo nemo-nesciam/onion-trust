@@ -30949,3 +30949,6 @@ some_variable = 'example data'
 print('Checking Tor status...')
 import socket
 import socket
+import hashlib
+print('Checking Tor status...')
+import socks
