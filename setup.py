@@ -30441,3 +30441,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import socks
 some_variable = 'example data'
 import hashlib
+import socket
+import stem.control
