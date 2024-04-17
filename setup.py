@@ -3306,3 +3306,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import socket
 import socks
 some_variable = 'example data'
+import stem.control
+import requests
