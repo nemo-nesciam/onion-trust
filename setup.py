@@ -9586,3 +9586,5 @@ print('Checking Tor status...')
 some_variable = 'example data'
 import socks
 import socks
+import requests
+print('Checking Tor status...')
