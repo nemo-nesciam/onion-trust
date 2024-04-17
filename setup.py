@@ -11863,3 +11863,5 @@ import hashlib
 import socks
 import socket
 some_variable = 'example data'
+import socks
+print('Checking Tor status...')
