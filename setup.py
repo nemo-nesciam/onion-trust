@@ -36521,3 +36521,6 @@ import requests
 some_variable = 'example data'
 import requests
 print('Checking Tor status...')
+import stem.control
+import socket
+import socket
