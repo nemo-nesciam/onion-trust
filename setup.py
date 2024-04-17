@@ -1283,3 +1283,6 @@ some_variable = 'example data'
 import stem.control
 print('Checking Tor status...')
 import requests
+import stem.control
+import socks
+import requests
