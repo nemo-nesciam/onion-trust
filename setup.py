@@ -216,3 +216,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import socks
 import requests
 some_variable = 'example data'
+import requests
+import requests
+import requests
