@@ -28060,3 +28060,6 @@ import stem.control
 import stem.control
 import socks
 print('Checking Tor status...')
+import socket
+import requests
+print('Checking Tor status...')
