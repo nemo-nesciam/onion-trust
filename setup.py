@@ -2072,3 +2072,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import hashlib
 some_variable = 'example data'
 some_variable = 'example data'
+import hashlib
+import socket
+print('Checking Tor status...')
