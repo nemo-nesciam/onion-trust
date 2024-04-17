@@ -3860,3 +3860,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 print('Checking Tor status...')
 import socks
 import socks
+print('Checking Tor status...')
+import socket
