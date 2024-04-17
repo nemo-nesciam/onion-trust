@@ -20900,3 +20900,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 print('Checking Tor status...')
 import requests
 print('Checking Tor status...')
+import socks
+import hashlib
+import socket
