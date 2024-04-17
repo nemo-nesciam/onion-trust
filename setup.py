@@ -18245,3 +18245,5 @@ import socket
 import hashlib
 import stem.control
 import socket
+import socket
+some_variable = 'example data'
