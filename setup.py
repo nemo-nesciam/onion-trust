@@ -2283,3 +2283,6 @@ some_variable = 'example data'
 print('Checking Tor status...')
 import socket
 import requests
+import stem.control
+import socks
+import socket
