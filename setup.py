@@ -14561,3 +14561,6 @@ import socks
 import socks
 import hashlib
 import requests
+import socket
+import stem.control
+import hashlib
