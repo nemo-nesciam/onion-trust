@@ -26346,3 +26346,5 @@ import socket
 import hashlib
 print('Checking Tor status...')
 import stem.control
+import stem.control
+print('Checking Tor status...')
