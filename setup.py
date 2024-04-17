@@ -15470,3 +15470,6 @@ some_variable = 'example data'
 import socks
 import stem.control
 some_variable = 'example data'
+print('Checking Tor status...')
+import socket
+import socks
