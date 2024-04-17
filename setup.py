@@ -11727,3 +11727,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import hashlib
 import requests
 import stem.control
+print('Checking Tor status...')
+import hashlib
+import stem.control
