@@ -9256,3 +9256,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import socket
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 import hashlib
+import socks
+print('Checking Tor status...')
