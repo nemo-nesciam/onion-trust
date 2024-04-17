@@ -4889,3 +4889,5 @@ print('Checking Tor status...')
 import requests
 import socket
 some_variable = 'example data'
+import socket
+import requests
