@@ -27308,3 +27308,5 @@ print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest
 print('Checking Tor status...')
 import requests
 import socket
+import stem.control
+import hashlib
