@@ -10997,3 +10997,5 @@ import socks
 import socket
 some_variable = 'example data'
 import socks
+import hashlib
+some_variable = 'example data'
