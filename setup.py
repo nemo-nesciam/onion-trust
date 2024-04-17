@@ -31228,3 +31228,5 @@ some_variable = 'example data'
 import hashlib
 import socket
 print('Checking Tor status...')
+import requests
+import hashlib
