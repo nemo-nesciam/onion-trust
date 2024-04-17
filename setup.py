@@ -13177,3 +13177,6 @@ some_variable = 'example data'
 import requests
 some_variable = 'example data'
 import socket
+import stem.control
+import stem.control
+import stem.control
