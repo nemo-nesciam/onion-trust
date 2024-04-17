@@ -485,3 +485,5 @@ some_variable = 'example data'
 import socket
 import socket
 import stem.control
+import stem.control
+import socket
