@@ -26872,3 +26872,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 print('Checking Tor status...')
 import stem.control
 import socket
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
+import stem.control
