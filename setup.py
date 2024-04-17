@@ -5661,3 +5661,5 @@ import socket
 import socks
 import socket
 import socket
+import socket
+print('Checking Tor status...')
