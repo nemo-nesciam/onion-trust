@@ -6960,3 +6960,6 @@ import stem.control
 import hashlib
 import hashlib
 import requests
+import hashlib
+some_variable = 'example data'
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
