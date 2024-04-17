@@ -37175,3 +37175,5 @@ import stem.control
 import socket
 import socks
 import stem.control
+print('Checking Tor status...')
+print('Checking Tor status...')
