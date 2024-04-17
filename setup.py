@@ -16777,3 +16777,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import hashlib
 import socks
 some_variable = 'example data'
+import socks
+import requests
