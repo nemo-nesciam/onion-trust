@@ -3641,3 +3641,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import socks
 import hashlib
 import hashlib
+import socks
+import socket
