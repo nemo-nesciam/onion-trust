@@ -36519,3 +36519,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import socket
 import requests
 some_variable = 'example data'
+import requests
+print('Checking Tor status...')
