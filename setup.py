@@ -30044,3 +30044,5 @@ print('Checking Tor status...')
 import hashlib
 import stem.control
 import hashlib
+import requests
+import socket
