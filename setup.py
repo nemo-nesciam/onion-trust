@@ -11649,3 +11649,5 @@ import stem.control
 print('Checking Tor status...')
 print('Checking Tor status...')
 import stem.control
+import socket
+import stem.control
