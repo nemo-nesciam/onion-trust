@@ -5000,3 +5000,6 @@ import stem.control
 import socks
 print('Checking Tor status...')
 import socks
+import stem.control
+print('Checking Tor status...')
+import requests
