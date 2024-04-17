@@ -8714,3 +8714,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import requests
 print('Checking Tor status...')
 some_variable = 'example data'
+import stem.control
+some_variable = 'example data'
