@@ -8320,3 +8320,6 @@ import hashlib
 import stem.control
 import hashlib
 import socks
+import socket
+print('Checking Tor status...')
+import socks
