@@ -7203,3 +7203,6 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import socks
 import socket
 some_variable = 'example data'
+some_variable = 'example data'
+import socks
+import socks
