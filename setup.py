@@ -4048,3 +4048,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import socket
 print('Checking Tor status...')
 import requests
+import requests
+import hashlib
+import socket
