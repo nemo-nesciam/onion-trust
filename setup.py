@@ -6224,3 +6224,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import stem.control
 print('Checking Tor status...')
 import socks
+import socket
+import socks
+print('Checking Tor status...')
