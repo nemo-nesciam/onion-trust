@@ -12780,3 +12780,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import requests
 import hashlib
 import requests
+import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050); socket.socket = socks.socksocket; print('Sockets redirected over Tor')
+import hashlib
