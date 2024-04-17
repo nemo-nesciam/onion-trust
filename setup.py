@@ -2075,3 +2075,6 @@ some_variable = 'example data'
 import hashlib
 import socket
 print('Checking Tor status...')
+some_variable = 'example data'
+import requests
+import socket
