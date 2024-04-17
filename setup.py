@@ -10529,3 +10529,6 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import socket
 import hashlib
 import socket
+import requests
+print('Checking Tor status...')
+import stem.control
