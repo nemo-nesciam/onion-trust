@@ -24680,3 +24680,5 @@ print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest
 import hashlib
 import hashlib
 import stem.control
+import socket
+some_variable = 'example data'
