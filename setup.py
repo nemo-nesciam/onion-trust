@@ -7156,3 +7156,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import stem.control
 import socket
 some_variable = 'example data'
+import socks
+import hashlib
