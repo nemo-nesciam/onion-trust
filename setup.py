@@ -20824,3 +20824,5 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import requests
 import socks
 import stem.control
+import stem.control
+some_variable = 'example data'
