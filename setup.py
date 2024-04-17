@@ -25339,3 +25339,6 @@ import requests
 import socks
 import socks
 import requests
+import stem.control
+import hashlib
+print('Checking Tor status...')
