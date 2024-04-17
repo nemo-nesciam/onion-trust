@@ -29576,3 +29576,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import stem.control
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 import hashlib
+import requests
+import socket
+import stem.control
