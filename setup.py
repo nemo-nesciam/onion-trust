@@ -33486,3 +33486,5 @@ print('Checking Tor status...')
 import stem.control
 print('Checking Tor status...')
 print('Checking Tor status...')
+import requests
+print('Checking Tor status...')
