@@ -18622,3 +18622,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import stem.control
 import socks
 print('Checking Tor status...')
+print('Checking Tor status...')
+import socks
+some_variable = 'example data'
