@@ -1603,3 +1603,6 @@ import socket
 some_variable = 'example data'
 import stem.control
 import socks
+import stem.control
+import stem.control
+import stem.control
