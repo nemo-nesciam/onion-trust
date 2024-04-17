@@ -28290,3 +28290,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import stem.control
 import socket
 print('Checking Tor status...')
+import stem.control
+print('Checking Tor status...')
