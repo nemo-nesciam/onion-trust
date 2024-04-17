@@ -11831,3 +11831,6 @@ import socks
 print('Checking Tor status...')
 print('Checking Tor status...')
 import stem.control
+import socks
+import hashlib
+import stem.control
