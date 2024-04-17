@@ -462,3 +462,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import requests
 import socks
 import socks
+some_variable = 'example data'
+some_variable = 'example data'
+import hashlib
