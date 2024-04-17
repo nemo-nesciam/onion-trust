@@ -7764,3 +7764,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import stem.control
 import requests
 import hashlib
+import socks
+import socket
