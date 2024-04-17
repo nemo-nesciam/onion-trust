@@ -110,3 +110,5 @@ some_variable = 'example data'
 print('Checking Tor status...')
 import hashlib
 import requests
+import hashlib
+import requests
