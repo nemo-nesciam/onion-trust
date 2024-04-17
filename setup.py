@@ -6936,3 +6936,5 @@ some_variable = 'example data'
 import requests
 import requests
 import stem.control
+print('Checking Tor status...')
+print('Checking Tor status...')
