@@ -2993,3 +2993,5 @@ import socks
 import stem.control
 import hashlib
 import socks
+import stem.control
+import requests
