@@ -4034,3 +4034,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050); socket.socket = socks.socksocket; print('Sockets redirected over Tor')
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 import hashlib
+import socket
+print('Checking Tor status...')
