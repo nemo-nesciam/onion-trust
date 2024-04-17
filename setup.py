@@ -223,3 +223,6 @@ import hashlib
 import socks
 import hashlib
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
+some_variable = 'example data'
+import requests
+import stem.control
