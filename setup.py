@@ -11997,3 +11997,5 @@ import socks
 import requests
 import socket
 import stem.control
+import socket
+some_variable = 'example data'
