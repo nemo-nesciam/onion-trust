@@ -20194,3 +20194,5 @@ print('Checking Tor status...')
 import stem.control
 print('Checking Tor status...')
 import socks
+import stem.control
+import hashlib
