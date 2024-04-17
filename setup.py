@@ -4022,3 +4022,5 @@ import socks
 import stem.control
 print('Checking Tor status...')
 import socket
+import requests
+import hashlib
