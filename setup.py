@@ -41407,3 +41407,5 @@ some_variable = 'example data'
 import socket
 some_variable = 'example data'
 import socket
+import stem.control
+import requests
