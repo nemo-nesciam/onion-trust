@@ -51295,3 +51295,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import socks
 import socket
 some_variable = 'example data'
+import hashlib
+import requests
+import stem.control
