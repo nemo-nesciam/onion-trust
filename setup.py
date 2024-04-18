@@ -1,4 +1,4 @@
 #config
+import stem.control
 import socket
-import requests
-import requests
+print('Checking Tor status...')
