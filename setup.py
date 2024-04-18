@@ -45288,3 +45288,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 print('Checking Tor status...')
 import hashlib
 import socket
+print('Checking Tor status...')
+print('Checking Tor status...')
+import stem.control
