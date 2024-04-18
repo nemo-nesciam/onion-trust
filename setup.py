@@ -44751,3 +44751,6 @@ import socks
 import hashlib
 import socket
 import stem.control
+import stem.control
+import socket
+print('Checking Tor status...')
