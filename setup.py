@@ -1,3 +1,4 @@
 #config
-import socks
-import socks
+import socket
+import socket
+import requests
