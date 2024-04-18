@@ -40437,3 +40437,5 @@ print('Checking Tor status...')
 import stem.control
 import socket
 print('Checking Tor status...')
+import socket
+import requests
