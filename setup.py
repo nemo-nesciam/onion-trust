@@ -50566,3 +50566,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 print('Checking Tor status...')
 import stem.control
 print('Checking Tor status...')
+import requests
+import socks
