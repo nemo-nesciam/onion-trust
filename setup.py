@@ -40300,3 +40300,6 @@ import requests
 import requests
 print('Checking Tor status...')
 import hashlib
+print('Checking Tor status...')
+import stem.control
+import hashlib
