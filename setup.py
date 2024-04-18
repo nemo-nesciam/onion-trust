@@ -44120,3 +44120,5 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 import requests
 import hashlib
 some_variable = 'example data'
+import requests
+import stem.control
