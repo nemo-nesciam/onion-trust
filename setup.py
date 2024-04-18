@@ -57104,3 +57104,5 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import stem.control
 import hashlib
 some_variable = 'example data'
+import stem.control; with stem.control.Controller.from_port() as controller: controller.authenticate(); print('Tor is running' if controller.is_alive() else 'Tor is not running')
+some_variable = 'example data'
