@@ -1,4 +1,4 @@
 #config
-import requests
-import hashlib
-import stem.control
+some_variable = 'example data'
+import socket
+some_variable = 'example data'
