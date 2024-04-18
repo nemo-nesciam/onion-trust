@@ -56816,3 +56816,5 @@ import stem.control
 import stem.control
 import socks
 some_variable = 'example data'
+import socks
+print('Checking Tor status...')
