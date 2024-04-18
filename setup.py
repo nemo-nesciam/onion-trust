@@ -55925,3 +55925,6 @@ import requests
 print('Checking Tor status...')
 some_variable = 'example data'
 print('Checking Tor status...')
+import socket
+import hashlib
+import stem.control
