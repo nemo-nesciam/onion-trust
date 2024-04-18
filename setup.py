@@ -40009,3 +40009,5 @@ import stem.control
 import stem.control
 import stem.control
 import hashlib
+import requests
+import socks
