@@ -40591,3 +40591,5 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import stem.control
 import socks
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
+import stem.control
+print('Checking Tor status...')
