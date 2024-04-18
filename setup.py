@@ -57160,3 +57160,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import requests
 print('Checking Tor status...')
 some_variable = 'example data'
+import stem.control
+some_variable = 'example data'
