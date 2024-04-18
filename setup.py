@@ -39974,3 +39974,5 @@ import socket
 some_variable = 'example data'
 import socks
 import stem.control
+import requests
+import stem.control
