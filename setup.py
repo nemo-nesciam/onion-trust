@@ -38319,3 +38319,6 @@ some_variable = 'example data'
 import socks
 some_variable = 'example data'
 import socket
+import socket
+import socket
+import stem.control
