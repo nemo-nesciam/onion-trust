@@ -58496,3 +58496,5 @@ import requests
 import hashlib
 import hashlib
 print('Checking Tor status...')
+import socket
+print('Checking Tor status...')
