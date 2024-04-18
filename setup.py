@@ -44107,3 +44107,6 @@ some_variable = 'example data'
 import requests
 import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050); socket.socket = socks.socksocket; print('Sockets redirected over Tor')
 import stem.control
+import socks
+import stem.control
+some_variable = 'example data'
