@@ -39598,3 +39598,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 print('Checking Tor status...')
 some_variable = 'example data'
 import stem.control
+some_variable = 'example data'
+import socks
+import socks
