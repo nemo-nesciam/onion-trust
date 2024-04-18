@@ -56159,3 +56159,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import hashlib
 some_variable = 'example data'
 import hashlib
+import stem.control
+import socks
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
