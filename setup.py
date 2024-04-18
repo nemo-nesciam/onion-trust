@@ -44834,3 +44834,6 @@ import requests; response = requests.get('http://check.torproject.org/', proxies
 some_variable = 'example data'
 import requests
 import stem.control
+import socks
+import socket
+import requests
