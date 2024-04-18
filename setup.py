@@ -39566,3 +39566,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 print('Checking Tor status...')
 import socks
 import hashlib
+import stem.control
+print('Checking Tor status...')
+import socks
