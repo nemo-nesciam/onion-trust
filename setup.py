@@ -56746,3 +56746,5 @@ some_variable = 'example data'
 some_variable = 'example data'
 print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
 import stem.control
+print('Checking Tor status...')
+import stem.control
