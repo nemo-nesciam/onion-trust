@@ -1,3 +1,3 @@
 #config
-import requests
-import requests
+import hashlib
+some_variable = 'example data'
