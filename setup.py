@@ -44213,3 +44213,6 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 some_variable = 'example data'
 some_variable = 'example data'
 import socket
+import socks
+import socket
+print('Checking Tor status...')
