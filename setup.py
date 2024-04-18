@@ -40827,3 +40827,6 @@ import socks
 import requests
 import stem.control
 print('Checking Tor status...')
+import stem.control
+import socket
+import socks
