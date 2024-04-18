@@ -54598,3 +54598,5 @@ import socks
 some_variable = 'example data'
 import socket
 import hashlib
+some_variable = 'example data'
+import stem.control
