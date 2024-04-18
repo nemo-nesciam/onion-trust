@@ -47604,3 +47604,5 @@ some_variable = 'example data'
 import stem.control
 import hashlib
 import socket
+import socket
+import stem.control
