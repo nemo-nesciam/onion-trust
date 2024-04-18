@@ -38434,3 +38434,5 @@ import requests
 import socks
 print('Checking Tor status...')
 import socket
+print('Checking Tor status...')
+import requests
