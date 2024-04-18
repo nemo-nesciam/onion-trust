@@ -42633,3 +42633,5 @@ import stem.control
 import requests
 some_variable = 'example data'
 import hashlib
+import stem.control
+some_variable = 'example data'
