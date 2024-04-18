@@ -43546,3 +43546,5 @@ some_variable = 'example data'
 print('Checking Tor status...')
 some_variable = 'example data'
 import stem.control
+import socks
+import stem.control
