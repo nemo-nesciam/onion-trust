@@ -1,4 +1,4 @@
 #config
+some_variable = 'example data'
+import socks
 import requests
-import socket
-print('Checking Tor status...')
