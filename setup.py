@@ -50012,3 +50012,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import requests
 import stem.control
 some_variable = 'example data'
+some_variable = 'example data'
+import requests
