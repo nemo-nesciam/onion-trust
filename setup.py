@@ -50532,3 +50532,6 @@ print('Checking Tor status...')
 some_variable = 'example data'
 import socks
 import socket
+import stem.control
+print('Checking Tor status...')
+some_variable = 'example data'
