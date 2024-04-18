@@ -50407,3 +50407,5 @@ print('Checking Tor status...')
 import hashlib
 import socks
 print('Checking Tor status...')
+import requests
+import socket
