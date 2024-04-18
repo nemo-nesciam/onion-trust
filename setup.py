@@ -57116,3 +57116,5 @@ some_variable = 'example data'
 import socket
 import hashlib
 import hashlib
+import stem.control
+print('Checking Tor status...')
