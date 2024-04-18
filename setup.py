@@ -45790,3 +45790,6 @@ some_variable = 'example data'
 import stem.control
 import hashlib
 import socks
+import socks
+some_variable = 'example data'
+import socket
