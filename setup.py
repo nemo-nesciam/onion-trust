@@ -49735,3 +49735,5 @@ some_variable = 'example data'
 import requests
 print('Checking Tor status...')
 some_variable = 'example data'
+import socks
+import requests
