@@ -44112,3 +44112,6 @@ import stem.control
 some_variable = 'example data'
 import hashlib
 print('Checking Tor status...')
+import socket
+import socks
+import socks
