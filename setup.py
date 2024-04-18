@@ -47522,3 +47522,5 @@ import socks
 print('Checking Tor status...')
 import socket
 print('Checking Tor status...')
+import hashlib
+import stem.control
