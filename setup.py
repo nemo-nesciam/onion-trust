@@ -49462,3 +49462,6 @@ import hashlib
 print('Checking Tor status...')
 import requests
 import requests
+print('Checking Tor status...')
+import hashlib
+import stem.control
