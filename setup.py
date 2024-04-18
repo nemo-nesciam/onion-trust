@@ -54929,3 +54929,6 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import socks
 some_variable = 'example data'
 print('Checking Tor status...')
+import requests; response = requests.get('http://check.torproject.org/', proxies={'http': 'socks5h://localhost:9050', 'https': 'socks5h://localhost:9050'}); print(response.text)
+import requests
+import stem.control
