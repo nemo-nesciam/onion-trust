@@ -49025,3 +49025,5 @@ some_variable = 'example data'
 import requests
 import requests
 import hashlib
+import socks
+print('Checking Tor status...')
