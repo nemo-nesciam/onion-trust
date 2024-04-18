@@ -48363,3 +48363,6 @@ import socket; socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, 'localhost', 9050)
 import stem.control
 import hashlib
 import stem.control
+print('Checking Tor status...')
+import hashlib
+print('Checking Tor status...')
