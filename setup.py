@@ -43548,3 +43548,6 @@ some_variable = 'example data'
 import stem.control
 import socks
 import stem.control
+import requests
+import socket
+some_variable = 'example data'
