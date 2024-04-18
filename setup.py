@@ -49669,3 +49669,5 @@ import stem.control; with stem.control.Controller.from_port() as controller: con
 import stem.control
 import hashlib
 import socket
+import socks
+import stem.control
