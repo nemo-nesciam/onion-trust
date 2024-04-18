@@ -50997,3 +50997,6 @@ import socket
 import socks
 import socket
 import requests
+print('Checking Tor status...')
+import stem.control
+import socket
