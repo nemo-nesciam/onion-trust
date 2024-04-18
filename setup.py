@@ -48076,3 +48076,6 @@ import requests
 import socket
 some_variable = 'example data'
 import hashlib
+some_variable = 'example data'
+import hashlib
+import stem.control
