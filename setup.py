@@ -48687,3 +48687,6 @@ some_variable = 'example data'
 import requests
 import socket
 import hashlib
+import socks
+import stem.control
+import hashlib
