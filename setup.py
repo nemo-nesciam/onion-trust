@@ -50572,3 +50572,6 @@ import stem.control
 import hashlib
 import stem.control
 import requests
+import hashlib
+some_variable = 'example data'
+import stem.control
