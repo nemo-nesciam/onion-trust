@@ -48285,3 +48285,6 @@ some_variable = 'example data'
 print('Checking Tor status...')
 import requests
 import socket
+some_variable = 'example data'
+import stem.control
+import socks
