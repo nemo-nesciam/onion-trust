@@ -1,3 +1,4 @@
 #config
-import socket
-import stem.control
+import socks
+import hashlib
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
