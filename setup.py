@@ -1,4 +1,3 @@
 #config
-import stem.control
-import stem.control
-import stem.control
+import requests
+import requests
