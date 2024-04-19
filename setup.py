@@ -1,4 +1,4 @@
 #config
 some_variable = 'example data'
-import requests
-import socks
+import hashlib
+print('Checking Tor status...')
