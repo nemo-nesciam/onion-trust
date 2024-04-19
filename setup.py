@@ -1,4 +1,4 @@
 #config
+import socks
+import socks
 import socket
-some_variable = 'example data'
-some_variable = 'example data'
