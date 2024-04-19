@@ -1,3 +1,3 @@
 #config
-print('Checking Tor status...')
-import socket
+import requests
+import requests
