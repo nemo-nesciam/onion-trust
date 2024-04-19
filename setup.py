@@ -1,4 +1,3 @@
 #config
-import stem.control
-print('Checking Tor status...')
-import requests
+import hashlib
+some_variable = 'example data'
