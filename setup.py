@@ -1,4 +1,4 @@
 #config
+import requests
+import stem.control
 import hashlib
-print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
-print('Checking Tor status...')
