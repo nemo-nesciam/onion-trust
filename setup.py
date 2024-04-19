@@ -1,4 +1,4 @@
 #config
-import stem.control
 some_variable = 'example data'
-import requests
+import stem.control
+import stem.control
