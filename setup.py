@@ -1,4 +1,4 @@
 #config
-import socks
-import socks
-import socks
+import hashlib
+some_variable = 'example data'
+import hashlib
