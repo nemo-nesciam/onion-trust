@@ -1,4 +1,4 @@
 #config
+import socket
 import hashlib
-import socket
-import socket
+import socks
