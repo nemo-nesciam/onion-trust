@@ -1,3 +1,4 @@
 #config
-some_variable = 'example data'
-import socket
+import requests
+import hashlib
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
