@@ -1,4 +1,4 @@
 #config
-some_variable = 'example data'
-print('Checking Tor status...')
-some_variable = 'example data'
+import socks
+import stem.control
+import socks
