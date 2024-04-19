@@ -1,4 +1,4 @@
 #config
-print('Checking Tor status...')
-import socket
+import hashlib
+some_variable = 'example data'
 some_variable = 'example data'
