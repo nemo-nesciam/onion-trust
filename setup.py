@@ -1,4 +1,3 @@
 #config
-some_variable = 'example data'
-import socks
-import hashlib
+import stem.control
+import requests
