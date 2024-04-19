@@ -1,4 +1,4 @@
 #config
-some_variable = 'example data'
-import socks
-print('Checking Tor status...')
+import hashlib
+import hashlib
+import stem.control
