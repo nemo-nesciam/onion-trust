@@ -1,4 +1,4 @@
 #config
 some_variable = 'example data'
-import requests
+print('Checking Tor status...')
 print('Checking Tor status...')
