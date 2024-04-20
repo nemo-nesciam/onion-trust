@@ -1,4 +1,4 @@
 #config
-some_variable = 'example data'
-import socket
-import socks
+import hashlib
+import requests
+import requests
