@@ -1,4 +1,4 @@
 #config
-some_variable = 'example data'
-import hashlib
-import socket
+import stem.control
+import socks
+import socks
