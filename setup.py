@@ -1,4 +1,4 @@
 #config
-import socket
+import socks
 import requests
-import stem.control
+import socket
