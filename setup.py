@@ -1,4 +1,4 @@
 #config
 import requests
-import requests
-import requests
+import socket
+some_variable = 'example data'
