@@ -1,4 +1,3 @@
 #config
-import socket
-import socket
+import hashlib
 import stem.control
