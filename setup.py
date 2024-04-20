@@ -1,3 +1,4 @@
 #config
+import stem.control
 import socket
-import hashlib
+some_variable = 'example data'
