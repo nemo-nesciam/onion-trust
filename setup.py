@@ -1,3 +1,4 @@
 #config
-import hashlib
 import requests
+import requests
+print('Checking Tor status...')
