@@ -1,4 +1,3 @@
 #config
-import socks
-import socket
-import socket
+some_variable = 'example data'
+import hashlib
