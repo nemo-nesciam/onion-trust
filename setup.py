@@ -1,3 +1,4 @@
 #config
 import requests
-print('Checking Tor status...')
+import requests
+import requests
