@@ -1,4 +1,4 @@
 #config
-import hashlib
-import requests
 import socks
+import socket
+import stem.control
