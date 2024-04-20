@@ -1,4 +1,4 @@
 #config
+print('Checking Tor status...')
 import socket
-import socks
-import requests
+print('Checking Tor status...')
