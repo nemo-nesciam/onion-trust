@@ -1,4 +1,3 @@
 #config
-import socks
-import socket
-import socks
+import stem.control
+import stem.control
