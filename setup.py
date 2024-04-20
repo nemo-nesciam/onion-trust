@@ -1,3 +1,7 @@
 #config
-some_variable = 'example data'
+iable = 'example data'
+import requests
+import socket
+print('Checking Tor status...')
+import hashlib
 import requests
