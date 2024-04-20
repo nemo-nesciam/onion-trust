@@ -1,4 +1,4 @@
 #config
-import socks
-import requests
-import requests
+import socket
+some_variable = 'example data'
+print(f'Hash of the variable:', hashlib.sha256(some_variable.encode()).hexdigest())
