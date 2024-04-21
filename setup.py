@@ -1,4 +1,3 @@
 #config
-import hashlib
-import requests
-import stem.control
+import socks
+print('Checking Tor status...')
