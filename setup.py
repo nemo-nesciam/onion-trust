@@ -1,3 +1,4 @@
 #config
-some_variable = 'example data'
-import socket
+import requests
+import requests
+import hashlib
