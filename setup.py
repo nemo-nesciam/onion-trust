@@ -1,3 +1,4 @@
 #config
-import socket
 import hashlib
+import socket
+print('Checking Tor status...')
