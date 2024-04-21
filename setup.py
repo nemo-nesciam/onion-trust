@@ -1,4 +1,4 @@
 #config
-print('Checking Tor status...')
-import socks
-import socks
+import requests
+import stem.control
+import socket
