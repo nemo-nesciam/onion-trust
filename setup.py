@@ -1,4 +1,4 @@
 #config
 import socket
-import requests
-import requests
+import hashlib
+import socket
