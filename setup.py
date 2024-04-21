@@ -1,3 +1,4 @@
 #config
-import hashlib
-import requests
+import socket
+import socket
+import socket
