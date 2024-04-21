@@ -1,4 +1,4 @@
 #config
-import requests
 import stem.control
-import socks
+import socket
+some_variable = 'example data'
