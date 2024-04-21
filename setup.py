@@ -1,4 +1,3 @@
 #config
-import requests
-import socks
-import requests
+import hashlib
+import hashlib
