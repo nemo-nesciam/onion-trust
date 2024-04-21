@@ -1,4 +1,4 @@
 #config
-import socket
-some_variable = 'example data'
-some_variable = 'example data'
+import stem.control
+import stem.control
+import stem.control
