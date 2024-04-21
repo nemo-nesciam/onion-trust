@@ -1,4 +1,4 @@
 #config
+import socks
 import hashlib
-import stem.control
-print('Checking Tor status...')
+import socket
