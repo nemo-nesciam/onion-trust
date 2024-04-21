@@ -1,3 +1,4 @@
 #config
+import stem.control
 import requests
-import requests
+some_variable = 'example data'
